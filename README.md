@@ -1,0 +1,2 @@
+# Newborn
+Starting python leaning
